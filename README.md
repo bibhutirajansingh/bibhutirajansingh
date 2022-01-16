@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋,
 
-<!--
-**bibhutirajansingh/bibhutirajansingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech EEE 2020 graduate from National Institute of Technology Warangal (NITW), India
 
-Here are some ideas to get you started:
+TECHNICAL SKILLS
+Java | C++ | Spring Boot | Play | AWS(S3) | HTMl/CSS/JS/AJAX | MySQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+COURSEWORK
+Data Structures | OOPs-C++ | DBMS | Machine Learning
+
+OTHER INTERESTS
+Mentoring | Advanced Physics
+
+
