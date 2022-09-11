@@ -3,7 +3,7 @@
 <h1 style="color:Tomato;">Hi there👋,</h1>
 <html>
 <div>
-<p>I am Bibhuti Rajan Singh.</p>
+<p>I am Bibhuti Rajan Singh. <a href="https://www.linkedin.com/in/bibhuti-rajan-singh-605684143/">LinkedIn_Id</a></p>
 <p>Software Developer at <a href="https://www.arcadia.com/">Urjanet(Arcadia)</a>.</p>
 <p><a href="https://https://www.nitw.ac.in/"> NIT Warangal</a> graduate(B.Tech EEE 2020).</p>
 </div>
