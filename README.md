@@ -4,7 +4,7 @@
 <html>
 <div>
 <p>I am Bibhuti Rajan Singh. <a href="https://www.linkedin.com/in/bibhuti-rajan-singh-605684143/">LinkedIn_Id</a></p>
-<p>Software Developer at <a href="https://www.arcadia.com/">Urjanet(Arcadia)</a>.</p>
+<p>Software Developer at <a href="https://www.arcadia.com/">Arcadia(Urjanet)</a>.</p>
 <p><a href="https://https://www.nitw.ac.in/"> NIT Warangal</a> graduate(B.Tech EEE 2020).</p>
 </div>
 <h2 style="background-color:Blue;">TECHNICAL SKILLS</h2>
