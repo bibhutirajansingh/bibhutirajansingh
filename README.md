@@ -13,7 +13,7 @@
   <li>C++</li>
   <li>Spring Boot</li>
   <li>Play Framework</li>
-  <li>HTML/CSS/JS/AJAX/Jquery</li>
+  <li>HTML/CSS/JS/Ajax/jQuery</li>
   <li>AWS(S3, ec2, ecs, ecr, ses, kinesis)</li>
   <li>MySQL</li>
 </ul>
