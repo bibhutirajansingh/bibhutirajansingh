@@ -12,10 +12,9 @@
   <li>Java</li>
   <li>C++</li>
   <li>Spring Boot</li>
-  <li>Java</li>
-  <li>Play</li>
-  <li>AWS(S3, ec2, ecs, ecr)</li>
-  <li>HTML/CSS/JS/AJAX</li>
+  <li>Play Framework</li>
+  <li>HTML/CSS/JS/AJAX/Jquery</li>
+  <li>AWS(S3, ec2, ecs, ecr, ses, kinesis)</li>
   <li>MySQL</li>
 </ul>
 
